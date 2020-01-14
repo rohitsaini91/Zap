@@ -23,7 +23,6 @@ class NewFormVC: UIViewController {
     private func configUI(){
         FormTitle.placeHolderText = "Form Title"
         FormTitle.type = .multiline
-        
     }
     
 
