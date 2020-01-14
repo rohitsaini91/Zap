@@ -1,0 +1,16 @@
+PODS:
+  - AnimatedTextInput (0.5.5)
+
+DEPENDENCIES:
+  - AnimatedTextInput
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AnimatedTextInput
+
+SPEC CHECKSUMS:
+  AnimatedTextInput: aadbdfa5a538a03cc9fbea700b43d2bb21a5d132
+
+PODFILE CHECKSUM: 5c251f4b581638fc3b5acf2a8bdb8fcd222467d7
+
+COCOAPODS: 1.6.1
